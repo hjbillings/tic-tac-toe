@@ -58,5 +58,3 @@ class Board:
             self.board[x][y] = 1
             return 0
 
-# enemy will return coordinate
-
